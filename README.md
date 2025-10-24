@@ -28,10 +28,7 @@ Frameworks & Tools:
 
   dog-breed-prediction/
 │
+├── dog_breed.ipynb     # colab notebook
 ├── app.py              # Streamlit app
-├── model/              # Trained CNN model
-├── data/               # Sample images / dataset
-├── notebooks/          # Jupyter notebooks for experiments
-├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
 
